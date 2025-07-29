@@ -5,6 +5,7 @@ Thumbs.db
 # 忽略目录
 /Results/
 /imgs/
+/dist/
 
 # 忽略配置文件
 .vscode/
